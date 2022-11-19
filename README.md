@@ -1,8 +1,11 @@
 # Z9V5PRO Parts Upgrade
 
 My hobby is upgrading Z9V5pro???
+
 .
+
 .
+
 
 Raspberry Pi 4 + 7" touch screen + pi camera (Klipper)
 
