@@ -16,3 +16,8 @@ High-temperature Extruder
 
 TF To Micro SD TF Flex Zip Extension Cable Memory Card Adapter Extender Cord Linker (46CM)
 
+Laser (Creality-Fan control)
+
+Dial gauge(Bed Leveling)
+
+
