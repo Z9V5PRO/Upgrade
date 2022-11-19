@@ -1,6 +1,8 @@
 # Z9V5PRO Parts Upgrade
 
-Hermit Crab Hotend Tool Changer
+Raspberry Pi 4 + 7" touch screen + pi camera (Klipper)
+
+Hermit Crab Hotend Tool Changer (x2)
 
 Cable Chain
 
@@ -20,4 +22,4 @@ Laser (Creality-Fan control)
 
 Dial gauge(Bed Leveling)
 
-
+Dual Gear Extruder (x4)
