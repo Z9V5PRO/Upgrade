@@ -1,7 +1,12 @@
 https://biqu.equipment/products/hermit-crab-rapid-tool-changer-for-3d-printer
 
 A quick replacement is very useful.
+
 However, when installed, the 35mm Y-axis becomes smaller.
+
+Y-axis end-switch shall also be adjusted.
+
+
 
 1. 4in1 Mix
 
