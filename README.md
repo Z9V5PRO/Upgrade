@@ -30,3 +30,21 @@ Laser (Creality-Fan control)
 Dial gauge(Bed Leveling)
 
 Dual Gear Extruder (x4)
+
+
+
+# Next step
+
+Acrylic Chamber
+
+Automatically change to another extractor when filament runs out (Klipper)
+
+Retractable Purge Mechanism (https://www.thingiverse.com/thing:4048193)
+
+Laser module (High)
+
+Linear rail (X, 2Y)
+
+More ....
+
+
